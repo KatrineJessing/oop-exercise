@@ -11,3 +11,5 @@ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-start
 
 1.*Kursiv* tekst.
 2. **Fed** tekst.
+
+- [Link til git] (https://github.com/KatrineJessing/)
